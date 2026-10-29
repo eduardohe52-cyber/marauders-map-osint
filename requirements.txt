@@ -1,1 +1,4 @@
-
+scapy==2.5.0
+pykalman==0.9.5
+paho-mqtt==1.6.1
+pygame==2.5.0
